@@ -1,0 +1,40 @@
+table, th, td {
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 4px;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
+body{
+background-color: lavender;
+}
+
+h1{
+color: purple;
+margin-top: 40px;
+}
+
+h4{
+text-align: centre;
+}
+
+input[type=submit]
+{
+background-color: #e6ccff;
+border: none;
+color: white;
+padding: 15px 32px;
+font-size: 17px;
+}
+
+select{
+color: purple;  
+background-color: lightpurple;
+padding: 1em 2.5em 2em 2em;
+font-size: 1rem;
+border-radius: 2px;
+}
+
+
